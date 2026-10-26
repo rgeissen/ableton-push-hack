@@ -7,6 +7,10 @@ between minor versions).
 
 ## [Unreleased]
 
+### Added
+
+- Catalog: Net MIDI (`netmidi`), the Push's MIDI on the network as Apple MIDI (RTP-MIDI), for an iPad, iPhone or Mac. Repo: `rgeissen/push-hack-netmidi`.
+
 ## [0.1.15-alpha] - 2026-10-20
 
 ### Added
